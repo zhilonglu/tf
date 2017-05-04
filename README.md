@@ -1,5 +1,2 @@
 # tf
-tensorflow learning
-introduce tensorflow using 
-some examples for NN using
-some examples for DNN using
+tensorflow learning,introduce tensorflow using,giving some examples for NN using,give some examples for CNN RNN LSTM using
